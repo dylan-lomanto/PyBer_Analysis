@@ -17,4 +17,11 @@ Urban rides consistently have the highest weekly total fares, followedby suburba
 ### Summary
 
 ##### Recommendation #1
-Increase 
+PyBer should increase marketing and the number of drivers in rural cities. Although rural cities only account for 5.3% of total rides, they make up 6.8% of total fares. This is likely due to rural rides being longer and thus more profitable.
+
+##### Recommendation #2
+PyBer should pursue more drivers in suburban cities. Suburban cities account for 26.3% of total rides, but only 16.5% of drivers. This shows that there is a demand for PyBer rides in suburban cities that may not be met with the current supply of drivers.
+
+##### Recommendation #3
+PyBer should either increase marketing to attract morse riders in urban cities or decrease the number of drivers. Urban city drivers account for 80.9% of total drivers, but only 
+68.4% of total rides. 
